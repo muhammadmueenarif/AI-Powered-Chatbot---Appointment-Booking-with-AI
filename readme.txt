@@ -70,3 +70,9 @@ account on google voice website. get your number and use here, click on gmail au
 click on advanced and click go to network unsafe and continue. next there will be option of forward msg to email. 
 you can enter your gmail there. and similar we have for twilio and facebook. 
 at last we have delete option if we do not like the chatbot. 
+
+
+We can create new chatbot by clicking on create new chatbot by template. it has 2 templates. real estate and 
+ecommerce. we will need to give google sheet that will have company information to train it. paste view only 
+public link here for chatbot training. and hence chatbot is created with no time. we can give details of products 
+in separate google sheet and provide its link in the same way and then ask questions. 
