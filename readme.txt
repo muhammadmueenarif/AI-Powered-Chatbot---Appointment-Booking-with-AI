@@ -64,3 +64,9 @@ the same response that i set, like please provide me date and time.
 to use google calendar, cancel the calendly by clicking on x buton and then choose google calendar. in google 
 calendar we have option of available days like if we do not want on weekend than we can unselect those days 
 and meeting will not be on weekend. 
+
+next we have inetgration option. for inetgration with sms, enter our gmail and google voice number. first setup 
+account on google voice website. get your number and use here, click on gmail authorization.  if eny error show
+click on advanced and click go to network unsafe and continue. next there will be option of forward msg to email. 
+you can enter your gmail there. and similar we have for twilio and facebook. 
+at last we have delete option if we do not like the chatbot. 
