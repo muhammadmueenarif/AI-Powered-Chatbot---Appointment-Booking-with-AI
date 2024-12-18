@@ -93,4 +93,9 @@ you can download newoaks from app store or playstore. in our chatbot, worksapce 
 option. enable live chat and select the chatbot for which we want to enable live then click to start live chat.
 now if someone asks chatbot that i want to chat with human, it will give form and live chat with human will be 
 opened. 
- 
+
+
+To integrate with website, goto chatbot and embed on site option will be showing, click on it. it will give 
+details where to put iframe and script tag in your website code and when you paste code there, then you can 
+see it in your website. we will paste it in theme, and edit code option if we have shopify or other wordpress like. 
+we will paste script just before the body script. 
