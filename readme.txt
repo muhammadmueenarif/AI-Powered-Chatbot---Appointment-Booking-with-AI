@@ -87,3 +87,10 @@ that we copy from chatbot website. click on publish and then click on test trigg
 need to test it again if we want back response from chatbot. 
 now when status is success, go back to chatbot and click on verify. 
 we can do this procedure for any crm no code platform like zapier etc., 
+
+
+you can download newoaks from app store or playstore. in our chatbot, worksapce section, we have live chat 
+option. enable live chat and select the chatbot for which we want to enable live then click to start live chat.
+now if someone asks chatbot that i want to chat with human, it will give form and live chat with human will be 
+opened. 
+ 
