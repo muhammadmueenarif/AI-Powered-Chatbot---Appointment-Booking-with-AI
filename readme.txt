@@ -39,3 +39,28 @@ Then security section which is by default public. public means everyone can acce
 can access. if we want to give link to any our own external link than we can give 
 only allow iframe and specific domain button on and give domain of our website. 
 if someone is spamming than we can limit the messages in specific time like limit 100 messages in one day. 
+
+
+in data sources we have keyword trigger option. like if we give keyword gmail, and set response then it will 
+give them response that we set if the question has keyword gmail in it. pre-planned answers. 
+
+
+Lead Generation chatbot / Lead collection chatbot. 
+in chatbot, there is lead option in left side. we can click on form ad turn it on if we want that user should 
+fill the form before chat. Then we have form display option like when should it display. whether it should display 
+on every message or it should display on human takeover. we can write our questions also. so when someone will
+msg, it willgive response and display lead generation form. and when user submit form, we can get the data 
+in our leads section of chatbot. 
+
+in chatbot, click on appointment section in left side. enable it and select what we want, calendly or google 
+calendar. connect calendly first and authorize it in order to use it by clikcing on autorize button. we can set 
+custom message for appointment or trigger keywords and time of meeting. 
+now if we ask chatbot for meeting, it will ask for details. give details and it wil provide meeting if available
+and open calendly where you can select custom meeting also. 
+so if we check in chatbot and dashboard and appointment section, it will show us appointments. we can also export 
+leads and appointments in csv. we can also set revise answer like if someone ask for meeting, then it will give 
+the same response that i set, like please provide me date and time. 
+
+to use google calendar, cancel the calendly by clicking on x buton and then choose google calendar. in google 
+calendar we have option of available days like if we do not want on weekend than we can unselect those days 
+and meeting will not be on weekend. 
