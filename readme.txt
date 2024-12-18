@@ -76,3 +76,14 @@ We can create new chatbot by clicking on create new chatbot by template. it has 
 ecommerce. we will need to give google sheet that will have company information to train it. paste view only 
 public link here for chatbot training. and hence chatbot is created with no time. we can give details of products 
 in separate google sheet and provide its link in the same way and then ask questions. 
+
+
+IN the chatbot, click on worksapce, we have openai and claude api key there. we have road map for future ideas and 
+updates. we have webhooks option. click on it. for this, first goto activepieces, create free account. 
+click start from scratch. first thing we need in chatbot is webhook. search webhook in activepieces. click on 
+catch webhook and copy the link. copy response status from our chatbot and goto activepieces and click on 
++ button before end and search return and it will show return response, select it and add the response status 
+that we copy from chatbot website. click on publish and then click on test trigger. once it is success then we 
+need to test it again if we want back response from chatbot. 
+now when status is success, go back to chatbot and click on verify. 
+we can do this procedure for any crm no code platform like zapier etc., 
