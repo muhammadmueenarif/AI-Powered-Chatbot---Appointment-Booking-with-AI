@@ -10,3 +10,12 @@ click on create api key. and generate your key, we have 4 types of data sources 
 to train. files, Text, website and q&a. we can upload any file like pdf ppt etc. 
 upload file and click on create chatbot and chatbot will be trained according to document. ask them questions 
 and test it. 
+
+
+Train by website. in data sources, click on website option. we can give website url to crawl or give submit 
+website sitemap. crawl means that it will get data of all url starting with our given url. it incluse all the 
+pages of website but exclude the files or documents. 
+
+its pricing is 19$per month but it has features that other website do not offer in this or even high price. 
+we can get free trial of one month and then later we can buy our plan according to our needs by checking its 
+pricing, plan sections.
